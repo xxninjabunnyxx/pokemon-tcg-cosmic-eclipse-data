@@ -1,0 +1,95 @@
+---
+id: sm12-62
+name: Wishiwashi
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '180'
+types:
+- Water
+abilities:
+- name: Scatter
+  text: At the end of your opponent's turn, if this Pokémon has any damage counters
+    on it, flip a coin. If tails, shuffle this Pokémon and all cards attached to it
+    into your deck.
+  type: Ability
+attacks:
+- name: Hydro Splash
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '130'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: sm12
+  name: Cosmic Eclipse
+  series: Sun & Moon
+  printedTotal: 236
+  total: 272
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: CEC
+  releaseDate: 2019/11/01
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm12/symbol.png
+    logo: https://images.pokemontcg.io/sm12/logo.png
+number: '62'
+artist: kawayoo
+rarity: Rare Holo
+flavorText: Wishiwashi assemble in this formation to face off against strong foes.
+  It boasts a strength that earned it the name "demon of the sea."
+nationalPokedexNumbers:
+- 746
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm12/62.png
+  large: https://images.pokemontcg.io/sm12/62_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm12-62
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.74
+      mid: 1.25
+      high: 2.25
+      market: 1.32
+      directLow: 1.07
+    holofoil:
+      low: 0.75
+      mid: 1.12
+      high: 2.48
+      market: 1.04
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm12-62
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.84
+    lowPrice: 0.29
+    trendPrice: 0.94
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.4
+    reverseHoloLow: 0.35
+    reverseHoloTrend: 1.38
+    lowPriceExPlus: 0.29
+    avg1: 0.75
+    avg7: 0.91
+    avg30: 0.9
+    reverseHoloAvg1: 2.5
+    reverseHoloAvg7: 1.24
+    reverseHoloAvg30: 0.99
